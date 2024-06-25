@@ -124,9 +124,6 @@ Java, Python, R, C/C++, JavaScript, SQL
 - [LinkedIn](https://www.linkedin.com/in/yogesh-goel/) ![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png)
 - [Personal Website](https://yogesh-goel.netlify.app/) ![Website](https://img.icons8.com/material-sharp/24/000000/domain.png)
 
-## 📊 GitHub Commit Progress
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yogesh2699/yogesh2699?style=flat-square)](https://github.com/yogesh2699/yogesh2699)
 
 ## 🚀 Recent Projects
 
