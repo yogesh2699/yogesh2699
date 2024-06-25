@@ -6,7 +6,7 @@ Experienced software engineer with a strong background in backend development an
 
 ## 🌟 Professional Experience
 
-### 🚀 Senior Software Engineer, Paytm
+### 🚀 Software Engineer, Paytm
 *October 2021 - August 2023*
 
 - Led efforts in backend development, automating downstream API calls which reduced API downtime by 50% and increased merchant onboarding by 25%.
@@ -29,6 +29,7 @@ Experienced software engineer with a strong background in backend development an
 - Designed and implemented Spring Boot microservices for ACEapp Social Network, enhancing application performance through Redis caching and SQL query optimization.
 
 ## 🚀 Skills
+
 
 - **Programming Languages:** Java, Python, R, C/C++, JavaScript, SQL
 - **Technologies:** 
