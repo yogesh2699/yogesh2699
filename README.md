@@ -30,29 +30,83 @@ Experienced software engineer with a strong background in backend development an
 
 ## 🚀 Skills
 
+## 🚀 Skills
 
-- **Programming Languages:** Java, Python, R, C/C++, JavaScript, SQL
-- **Technologies:** 
-  - React ![React](https://img.icons8.com/ios-filled/50/000000/react-native.png)
-  - Node.js ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
-  - Spring Boot ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-  - Kafka 
-  - Redis ![Redis](https://img.icons8.com/color/48/000000/redis.png)
-  - MySQL ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-  - Mockito 
-  - JUnit5 
-- **Tools & DevOps:** 
-  - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-  - Jenkins ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-  - Checkmarx 
-  - Grafana ![Grafana](https://img.icons8.com/fluency/48/000000/grafana.png)
-  - Kibana 
-  - IntelliJ IDEA ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
-  - Maven 
-  - Swagger 
-  - Postman ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
-  - Firebase 
-  - Azure ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+### Programming Languages
+Java, Python, R, C/C++, JavaScript, SQL
+
+### Technologies
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" alt="React" style="vertical-align: middle;"/>
+        React
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" style="vertical-align: middle;"/>
+        Node.js
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" style="vertical-align: middle;"/>
+        Spring Boot
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" style="vertical-align: middle;"/>
+        Kafka
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" style="vertical-align: middle;"/>
+        Redis
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="vertical-align: middle;"/>
+        MySQL
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/mockitt.png" alt="Mockito" style="vertical-align: middle;"/>
+        Mockito
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit5" style="vertical-align: middle;"/>
+        JUnit5
+    </div>
+</div>
+
+### Tools & DevOps
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="vertical-align: middle;"/>
+        Git
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" style="vertical-align: middle;"/>
+        Jenkins
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/fluency/48/000000/grafana.png" alt="Grafana" style="vertical-align: middle;"/>
+        Grafana
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/kibana.png" alt="Kibana" style="vertical-align: middle;"/>
+        Kibana
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" style="vertical-align: middle;"/>
+        IntelliJ IDEA
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" style="vertical-align: middle;"/>
+        Postman
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="vertical-align: middle;"/>
+        Firebase
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="vertical-align: middle;"/>
+        Azure
+    </div>
+</div>
+
 
 ## 📚 Education
 
