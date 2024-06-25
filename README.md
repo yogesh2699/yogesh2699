@@ -50,11 +50,9 @@ Java, Python, R, C/C++, JavaScript, SQL
         Spring Boot
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" style="vertical-align: middle;"/>
         Kafka
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" style="vertical-align: middle;"/>
         Redis
     </div>
     <div style="margin-right: 20px;">
@@ -62,11 +60,9 @@ Java, Python, R, C/C++, JavaScript, SQL
         MySQL
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/mockitt.png" alt="Mockito" style="vertical-align: middle;"/>
         Mockito
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit5" style="vertical-align: middle;"/>
         JUnit5
     </div>
 </div>
