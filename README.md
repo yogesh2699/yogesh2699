@@ -36,22 +36,22 @@ Experienced software engineer with a strong background in backend development an
   - React ![React](https://img.icons8.com/ios-filled/50/000000/react-native.png)
   - Node.js ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
   - Spring Boot ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-  - Kafka ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
+  - Kafka 
   - Redis ![Redis](https://img.icons8.com/color/48/000000/redis.png)
   - MySQL ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-  - Mockito ![Mockito](https://img.icons8.com/color/48/000000/mockitt.png)
-  - JUnit5 ![JUnit5](https://img.icons8.com/color/48/000000/junit.png)
+  - Mockito 
+  - JUnit5 
 - **Tools & DevOps:** 
   - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
   - Jenkins ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-  - Checkmarx ![Checkmarx](https://img.icons8.com/color/48/000000/checkmarx.png)
+  - Checkmarx 
   - Grafana ![Grafana](https://img.icons8.com/fluency/48/000000/grafana.png)
-  - Kibana ![Kibana](https://img.icons8.com/color/48/000000/kibana.png)
+  - Kibana 
   - IntelliJ IDEA ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
-  - Maven ![Maven](https://img.icons8.com/windows/48/000000/maven.png)
-  - Swagger ![Swagger](https://img.icons8.com/color/48/000000/swagger.png)
+  - Maven 
+  - Swagger 
   - Postman ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
-  - Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+  - Firebase 
   - Azure ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 
 ## 📚 Education
